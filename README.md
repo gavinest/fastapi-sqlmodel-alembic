@@ -11,7 +11,7 @@ A ready-to-deploy, async FastAPI project template with:
 * 🚧 Github Actions (CI/CD)
 * 🚧 AWS (Cloud Provider) - coming soon
 
-Based on the blog post [Building a FastAPI App with SQLModel and Alembic](https://testdriven.io/blog/fastapi-sqlmodel/) by [TestDriven.io](https://testdriven.io/) but updated and with more bells and whistles.
+Based on the [TestDriven.io](https://testdriven.io/) blog [post](https://testdriven.io/blog/fastapi-sqlmodel/) but updated and including more bells and whistles.
 
 ## Run
 
