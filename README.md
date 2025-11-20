@@ -1,14 +1,12 @@
 # FastAPI + SQLModel + Alembic
 
-A ready-to-deploy project template with:
+A ready-to-deploy, async FastAPI project template with:
 
-* ✅ FastAPI async
 * ✅ SQLModel (ORM)
 * ✅ Alembic (Database Migrations)
 * ✅ PostgreSQL (Database)
 * ✅ Docker (Containerization)
-* ✅ Python (Programming Language)
-* 🚧 Pytest (Testing Framework) - coming soon
+* ✅ Pytest (Testing Framework) - coming soon
 * ✅ uv (Package Manager)
 * 🚧 Github Actions (CI/CD)
 * 🚧 AWS (Cloud Provider) - coming soon
